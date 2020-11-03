@@ -1,2 +1,2 @@
 # image_cropping
-Image cropping and saving using django ,ajax , jquery 
+Image cropping and saving using django ,ajax , jquery ,python 
